@@ -26,7 +26,7 @@ pip install openai
 ```
 
 ## 5. 🔑配置 API Key
-   请注意，本人是在deepseek开放平台申请的api key，若使用者有其他api，可以参照对应平台说明文档使用自己的key复现该项目。
+   请注意，本人是在deepseek开放平台申请的api key，模型名称为deepseek-chat，若使用者有其他api，可以参照对应平台说明文档使用自己的key复现该项目。
 ### 5.1 在电脑的环境变量中设置
 ```plaintext
 DEEPSEEK_API_KEY=你的API密钥
